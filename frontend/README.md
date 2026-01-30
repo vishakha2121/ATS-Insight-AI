@@ -1,0 +1,3 @@
+Run frontend using:
+npm install
+npm run dev
